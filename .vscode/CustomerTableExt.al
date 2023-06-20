@@ -5,7 +5,7 @@ tableextension 50100 "LO23 Customer" extends Customer
         field(50100; "LO23 Shoe Size"; decimal)
         {
             DataClassification = CustomerContent;
-            Caption = 'Shoe Size';
+            Caption = 'Shoe Size Test';
         }
     }
 }
